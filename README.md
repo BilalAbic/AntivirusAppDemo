@@ -206,3 +206,9 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ---
 
 **⚠️ Uyarı:** Bu uygulamayı deneme etmek amacıyla oluşturulmuştur. Gerçek bir antivirüs yazılımının yerini tutamaz.
+
+---
+
+<p align="center">
+  <i>🤖 Yapay Zeka yardımıyla oluşturulmuştur (Gemini, Claude ve IDE: Kiro)</i>
+</p>
